@@ -30,6 +30,6 @@ For Github Users:
    git clone git@github.com:mominahmadrao/Go-Learning-Journey.git
    ```
 For GitLab Users:
-```bash
+   ```bash
    git clone git@gitlab.com:mominahmadrao/go-learning-project.git
-   ```   
+   ```
