@@ -25,7 +25,11 @@ This repo keeps me accountable and might help others starting out too!
 
 ## 🚀 How to Use This Repo
 
-1. Clone the repo:
+For Github Users:
    ```bash
-   git clone https://github.com/your-username/go-learning-journey.git
+   git clone git@github.com:mominahmadrao/Go-Learning-Journey.git
    ```
+For GitLab Users:
+```bash
+   git clone git@gitlab.com:mominahmadrao/go-learning-project.git
+   ```   
