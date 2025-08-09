@@ -9,10 +9,10 @@ This repo documents my hands-on journey of learning Go — from core concepts to
 
 This repository is structured into the following sections:
 
-- `basics/` – Go syntax, types, functions, control structures, etc.
-- `std-lib/` – Exploring Go's standard library (fmt, time, net/http, etc.)
-- `projects/` – Mini-projects to apply learned concepts (CLI tools, web servers, etc.)
-- `notes/` – My notes, tips, and key takeaways while learning
+- `Intro/` – Go basic program.
+- `Variables/` – How to declare variable and constants
+- `Loop/` – Different types of 'for' loops
+- `Conditionals/` - if else statements
 
 ---
 
